@@ -1,1 +1,0 @@
-to make exe active.  please remove the extention ."REMOVEME".
